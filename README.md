@@ -13,4 +13,6 @@
     <br>
 </p>
 
+A 30-day tutorial series for people with no programming experience and want to learn how to code.
+
 This repository consists of all the 30 Days Of Code JAVA Solutions as of 10th April 2020
